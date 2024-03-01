@@ -9,8 +9,8 @@ to the various types and methods used for scams online.
 **This code is still in its design stage**.
 
 Any input during this stage will help greatly benefit
-everyone involved in the future. The foundation is being
-formed now.
+everyone involved in the future. The foundational ideas
+are being formed now.
 
 ### Want to provide feedback?
 
